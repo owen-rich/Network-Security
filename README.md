@@ -8,6 +8,7 @@ You are a security administrator tasked with designing a secure network architec
 
 Steps:
 Start a network project in Draw.io
+
 	• The network must include:
 		o Two routers and one switch
 		o Two firewalls
