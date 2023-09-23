@@ -21,3 +21,12 @@ Start a network project in Draw.io
 	▪ Three web servers with high availability
 	▪ Database
 	▪ Domain controller
+
+Network Design with Load Balancer Practice
+
+Mission: A large data center has a server latency issue. During rush hours, the main server lags. Solve this problem using the Draw.io platform. 
+
+Steps: Go to Draw.io for this task.
+
+	• Create a new network architecture with two web servers.
+	• Use a load balancer to solve the latency issue.
