@@ -1,7 +1,7 @@
 # Network-Security
 Practice Labs
 
-Secure Network Design Practice
+<u>Secure Network Design Practice</u>
 
 Mission:
 You are a security administrator tasked with designing a secure network architecture for your company.
